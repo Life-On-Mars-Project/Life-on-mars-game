@@ -1,0 +1,16 @@
+IABtn:0,0
+mainMenu:1120,630
+optionsMenu:1120,630
+optionsMenuBtn:0,0
+pauseMenu:0,0
+playBtn:0,0
+returnBtn:0,0
+unpauseBtn:0,0
+vsIABtn:0,0
+gameOver:1120,630
+playAgainBtn:0,0
+cdMenu3:1120,630
+cdMenu2:1120,630
+cdMenu1:1120,630
+cdMenu0:1120,630
+upBindBtn:0,0

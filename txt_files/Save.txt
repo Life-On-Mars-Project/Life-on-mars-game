@@ -1,0 +1,7 @@
+BindJump:273
+BindCrouch:276
+Skin1:True
+Skin2:False
+Skin3:False
+0
+Sound:0
