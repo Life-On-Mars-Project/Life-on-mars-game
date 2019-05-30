@@ -1,2 +1,3 @@
 # Project
-Projet ISN pour le BAC (Hugo AOYAGI, Noé d'ABOVILLE, Oscar DEWASMES)
+Projet ISN pour le BAC 
+Fait par Hugo AOYAGI, Noé d'ABOVILLE, Oscar DEWASMES
