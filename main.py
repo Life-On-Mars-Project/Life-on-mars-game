@@ -179,12 +179,12 @@ class App:
 
     def goToCountDown(self):
         #Affiche le compte ÃƒÆ’Ã‚Â  rebours avant la partie
-        """Menus.current_scene = self.cdMenu
+        Menus.current_scene = self.cdMenu
         for i in range(3,-1,-1):
             Menus.current_scene.image = self.images["cdMenu{}".format(i)]
             Menus.current_scene.displayUI()
             pygame.display.update()
-            self.clock.tick(1)"""
+            self.clock.tick(1)
         self.StartGame()
 
     def goToOptions(self):
