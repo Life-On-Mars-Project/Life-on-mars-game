@@ -16,3 +16,4 @@ __IA__: Entrainement d'une IA
 __Versus IA__: Course contre une IA
 
 *Fait par Hugo AOYAGI, Noé d'ABOVILLE, Oscar DEWASMES*
+__Graphismes intégralement faits par Nicolas Mouttou__
