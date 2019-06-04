@@ -15,5 +15,5 @@ __Classique__: Course d'obstacle infinie
 __IA__: Entrainement d'une IA  
 __Versus IA__: Course contre une IA
 
-*Fait par Hugo AOYAGI, Noé d'ABOVILLE, Oscar DEWASMES*
+*Fait par Hugo AOYAGI, Noé d'ABOVILLE, Oscar DEWASMES*  
 __Graphismes intégralement faits par Nicolas Mouttou__
